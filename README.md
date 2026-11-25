@@ -16,6 +16,7 @@
 | 数据窗口 | 在线地址 |
 | --- | --- |
 | 2026-11-16 ~ 11-22（最新） | <https://gates-kao.github.io/cid-selector/> |
+| 2026-11-16 ~ 11-22（归档副本） | <https://gates-kao.github.io/cid-selector/food-cid-weekly-1116-1122.html> |
 | 2026-11-09 ~ 11-15 | <https://gates-kao.github.io/cid-selector/food-cid-weekly-1109-1115.html> |
 
 ## 更新方式
